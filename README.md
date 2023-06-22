@@ -8,6 +8,7 @@ Some notes for this site:
 - this code didn't have any changes after the site got taken down - only pure 2020 web design *made by me💅*. but:
 - **there can be a LOT of poor css/html/js code**, pls don't blame me, at that time i just started learning css/html.
 - there are some **music**(😨). just 14 tracks of my first album "Infinity waves" you can check though.
+- "Danger!" game - only v0.2 version is distributed as others are available at GitHub repo. 
 - there are **g a m e s** and *programs*. when i was making those projects i took some screenshots of some, so you can now see them without downloading a repo 👍. 
   - game - danger, available [here](https://github.com/f1refa11/danger). 
   - **very cringe game** - minepy, very simple text *unfinished* game based on Minecraft game playthrough which lets a user make choices to completing a game. not recommended to play, **VERY NOT RECOMMENDED** to check the sources(written in python).
