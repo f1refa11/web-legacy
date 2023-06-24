@@ -13,8 +13,8 @@ Some notes for this site:
   - game - danger, available [here](https://github.com/f1refa11/danger). 
   - **very cringe game** - minepy, very simple text *unfinished* game based on Minecraft game playthrough which lets a user make choices to completing a game. not recommended to play, **VERY NOT RECOMMENDED** to check the sources(written in python).
   - programs - batcreator and pygenerator - apps written in Tkinter which lets you create an batch/python script without writing code. i don't know their statuses, may be both unfinished. sources available.
-  - program - pygenerator(or pyrandom) - pretty simple password generator. may also be unfinished and have some cool features, so check it out.
+  - program - pygenerator(or pyrandom) - pretty simple password generator. may also be unfinished and have some cool features. **files are not included yet as they may be published on Google Drive**
   - game - opencanvas - simple multiplayer drawing canvas with (probably) room system. was written in Construct whose site is used by game engine to handle connections. can be laggy at some cases. very unfinished project but worth trying
-
-if i find other project i'll add it.
+  - game - OMSG(Open Multiplayer Survival Game) - simple top-down survival game written in Construct using their multiplayer servers. i don't remember any cool features in this game, but you can try and check  them.
+if i find other projects i'll add it.
 Unfortunately there are some projects whose files are not included in repo. But if i found some of them i'll update the README. 
